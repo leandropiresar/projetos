@@ -1,0 +1,1385 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-05 19:52+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: ../lawyers/search.php:22
+msgid "Search Results"
+msgstr ""
+
+#: ../lawyers/search.php:23
+msgid "for"
+msgstr ""
+
+#: ../lawyers/search.php:62 ../lawyers/archive.php:81 ../lawyers/index.php:80 
+#: ../lawyers/single.php:75
+msgid "No comments"
+msgstr ""
+
+#: ../lawyers/search.php:62 ../lawyers/archive.php:81 ../lawyers/index.php:80 
+#: ../lawyers/single.php:75 ../lawyers/comments.php:23
+msgid "1 Comment"
+msgstr ""
+
+#: ../lawyers/search.php:62 ../lawyers/archive.php:81 ../lawyers/index.php:80 
+#: ../lawyers/single.php:75 ../lawyers/comments.php:23
+msgid "% Comments"
+msgstr ""
+
+#: ../lawyers/search.php:67 ../lawyers/archive.php:86 ../lawyers/index.php:85
+msgid "Continue Reading"
+msgstr ""
+
+#: ../lawyers/search.php:87
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../lawyers/archive.php:27 ../lawyers/archive.php:33 
+#: ../lawyers/archive.php:36 ../lawyers/archive.php:39
+msgid "Archive for"
+msgstr ""
+
+#: ../lawyers/archive.php:30
+msgid "Posts Tagged"
+msgstr ""
+
+#: ../lawyers/archive.php:42
+msgid "Author Archive"
+msgstr ""
+
+#: ../lawyers/archive.php:45
+msgid "Blog Archives"
+msgstr ""
+
+#: ../lawyers/index.php:106 
+#: ../lawyers/my-templates/template-case-results-2col.php:148 
+#: ../lawyers/my-templates/template-team-2col.php:116 
+#: ../lawyers/my-templates/template-team-4col.php:117 
+#: ../lawyers/my-templates/template-testimonials.php:108 
+#: ../lawyers/my-templates/template-team-3col.php:116 
+#: ../lawyers/my-templates/template-team-1col.php:156 
+#: ../lawyers/my-templates/template-case-results-1col.php:150
+msgid "Previous"
+msgstr ""
+
+#: ../lawyers/index.php:107 
+#: ../lawyers/my-templates/template-case-results-2col.php:149 
+#: ../lawyers/my-templates/template-team-2col.php:117 
+#: ../lawyers/my-templates/template-team-4col.php:118 
+#: ../lawyers/my-templates/template-testimonials.php:109 
+#: ../lawyers/my-templates/template-team-3col.php:117 
+#: ../lawyers/my-templates/template-team-1col.php:157 
+#: ../lawyers/my-templates/template-case-results-1col.php:151
+msgid "Next"
+msgstr ""
+
+#: ../lawyers/404.php:20
+msgid "Error 404 - Page Not Found"
+msgstr ""
+
+#: ../lawyers/404.php:21
+msgid "Check the menu sections above"
+msgstr ""
+
+#: ../lawyers/404.php:33
+msgid "404"
+msgstr ""
+
+#: ../lawyers/404.php:34
+msgid "The page you're looking for can't be found."
+msgstr ""
+
+#: ../lawyers/searchform.php:2
+msgid "type and hit enter"
+msgstr ""
+
+#: ../lawyers/single.php:86
+msgid "Next Page"
+msgstr ""
+
+#: ../lawyers/single.php:87
+msgid "Previous Page"
+msgstr ""
+
+#: ../lawyers/single.php:92
+msgid "Tags"
+msgstr ""
+
+#: ../lawyers/single.php:97 ../lawyers/single-mt_practice_areas.php:30 
+#: ../lawyers/single-mt_practice_areas.php:104
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../lawyers/single-mt_team.php:119
+msgid " Prev Member: "
+msgstr ""
+
+#: ../lawyers/single-mt_team.php:120
+msgid "Next Member: "
+msgstr ""
+
+#: ../lawyers/comments.php:23
+msgid "No Comments"
+msgstr ""
+
+#: ../lawyers/comments.php:32
+msgid "Comment navigation"
+msgstr ""
+
+#: ../lawyers/comments.php:33
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../lawyers/comments.php:34
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../lawyers/comments.php:57
+msgid "Leave a Comment"
+msgstr ""
+
+#: ../lawyers/comments.php:60 ../lawyers/my-templates/template-contact.php:62 
+#: ../lawyers/include/assets/section-footer1.php:27
+msgid "Name"
+msgstr ""
+
+#: ../lawyers/comments.php:61 ../lawyers/my-templates/template-contact.php:64 
+#: ../lawyers/include/assets/section-footer1.php:30
+msgid "Email"
+msgstr ""
+
+#: ../lawyers/comments.php:65 ../lawyers/my-templates/template-contact.php:68
+msgid "Message"
+msgstr ""
+
+#: ../lawyers/comments.php:67
+msgid "Submit Comment"
+msgstr ""
+
+#: ../lawyers/functions.php:136 ../lawyers/functions.php:156
+msgid "Please fill the Name field!"
+msgstr ""
+
+#: ../lawyers/functions.php:137 ../lawyers/functions.php:157
+msgid "Please fill the Email field!"
+msgstr ""
+
+#: ../lawyers/functions.php:138 ../lawyers/functions.php:158
+msgid "Please provide a valid Email address!"
+msgstr ""
+
+#: ../lawyers/functions.php:139 ../lawyers/functions.php:159
+msgid "Please fill the Subject field!"
+msgstr ""
+
+#: ../lawyers/functions.php:140 ../lawyers/functions.php:160
+msgid "Please fill the Message field!"
+msgstr ""
+
+#: ../lawyers/functions.php:141 ../lawyers/functions.php:161
+msgid "Please fill the Antispam field!"
+msgstr ""
+
+#: ../lawyers/functions.php:142 ../lawyers/functions.php:162
+msgid "You must answer correctly the antispam question!"
+msgstr ""
+
+#: ../lawyers/functions.php:143 ../lawyers/functions.php:163
+msgid "Sending message...!"
+msgstr ""
+
+#: ../lawyers/functions.php:144 ../lawyers/functions.php:164
+msgid "Message sent"
+msgstr ""
+
+#: ../lawyers/functions.php:145 ../lawyers/functions.php:165
+msgid ""
+"Thanks for contacting us! We will get to your message as soon as we can."
+msgstr ""
+
+#: ../lawyers/functions.php:193
+msgid "Primary Menu"
+msgstr ""
+
+#: ../lawyers/functions.php:211
+msgid "Main sidebar that appears on the left."
+msgstr ""
+
+#: ../lawyers/functions.php:219
+msgid "Homepage"
+msgstr ""
+
+#: ../lawyers/functions.php:221
+msgid "Use widgets with \"Home\" prefix for Homepage layout"
+msgstr ""
+
+#: ../lawyers/functions.php:229
+msgid "Footer 1"
+msgstr ""
+
+#: ../lawyers/functions.php:231
+msgid "Widgets in this area are used in the first footer column"
+msgstr ""
+
+#: ../lawyers/functions.php:239
+msgid "Footer 2"
+msgstr ""
+
+#: ../lawyers/functions.php:241
+msgid "Widgets in this area are used in the second footer column"
+msgstr ""
+
+#: ../lawyers/functions.php:249
+msgid "Footer 3"
+msgstr ""
+
+#: ../lawyers/functions.php:251
+msgid "Widgets in this area are used in the third footer column"
+msgstr ""
+
+#: ../lawyers/functions.php:302
+msgid "<cite class=\"author\">%s</cite>"
+msgstr ""
+
+#: ../lawyers/functions.php:310
+msgid "Reply"
+msgstr ""
+
+#: ../lawyers/functions.php:340
+msgid "Page"
+msgstr ""
+
+#: ../lawyers/functions.php:340
+msgid "of"
+msgstr ""
+
+#: ../lawyers/functions.php:341
+msgid "First"
+msgstr ""
+
+#: ../lawyers/functions.php:347
+msgid "Last"
+msgstr ""
+
+#. Name of the template
+msgid "Case Results 2 Col"
+msgstr ""
+
+#. Name of the template
+msgid "Team - 2 Column"
+msgstr ""
+
+#: ../lawyers/my-templates/template-team-2col.php:93 
+#: ../lawyers/my-templates/template-team-4col.php:94 
+#: ../lawyers/my-templates/template-team-3col.php:93 
+#: ../lawyers/include/widgets/widget-home-team-3col-profile-btn.php:106 
+#: ../lawyers/include/widgets/widget-home-team-4col-profile-btn.php:106 
+#: ../lawyers/include/widgets/widget-home-team-2col-profile-btn.php:108
+msgid "View Profile"
+msgstr ""
+
+#. Name of the template
+msgid "Home"
+msgstr ""
+
+#. Name of the template
+msgid "Contact"
+msgstr ""
+
+#: ../lawyers/my-templates/template-contact.php:66 
+#: ../lawyers/include/assets/section-footer1.php:33
+msgid "Subject"
+msgstr ""
+
+#: ../lawyers/my-templates/template-contact.php:73
+msgid "Send message"
+msgstr ""
+
+#: ../lawyers/my-templates/template-contact.php:103
+msgid "Address: "
+msgstr ""
+
+#: ../lawyers/my-templates/template-contact.php:109
+msgid "Phone: "
+msgstr ""
+
+#: ../lawyers/my-templates/template-contact.php:115
+msgid "Fax: "
+msgstr ""
+
+#: ../lawyers/my-templates/template-contact.php:121
+msgid "Email: "
+msgstr ""
+
+#. Name of the template
+msgid "Team - 4 Column"
+msgstr ""
+
+#. Name of the template
+msgid "Practice Areas 3 Col"
+msgstr ""
+
+#. Name of the template
+msgid "About"
+msgstr ""
+
+#. Name of the template
+msgid "Testimonials"
+msgstr ""
+
+#. Name of the template
+msgid "Team - 3 Column"
+msgstr ""
+
+#. Name of the template
+msgid "Practice Areas 4 Col"
+msgstr ""
+
+#. Name of the template
+msgid "FullWidth"
+msgstr ""
+
+#. Name of the template
+msgid "Team - 1 Column"
+msgstr ""
+
+#. Name of the template
+msgid "Case Results 1 Col"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:31
+msgid "General Settings"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:36
+msgid "Colors"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:41
+msgid "Typography"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:46
+msgid "Home Top Slideshow"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:51
+msgid "About Page"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:56
+msgid "Contact Page"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:61
+msgid "Footer"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:66
+msgid "Social Media"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:75
+msgid "Logo Image"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:78
+msgid "Upload logo image."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:88
+msgid "Logo Text"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:91
+msgid "Add text logo."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:101
+msgid "Favicon Image"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:104
+msgid "Upload favicon image."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:114
+msgid "Custom CSS"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:117
+msgid "Add custom CSS code."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:127
+msgid "Top Header - Choose Top Header Display"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:130
+msgid "Choose how you want to display the top header."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:133
+msgid "Custom Top Header 1"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:137
+msgid "Custom Top Header 2"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:150
+msgid "Practice Areas - Number of items per page"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:153
+msgid "Change the number of practice area items per page"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:163
+msgid "Practice Areas - Choose Single Item Display"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:166
+msgid "Choose how you want to display single practice area item."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:169
+msgid "via Modal Window"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:173
+msgid "via Normal Page"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:187
+msgid "Practice Areas - Single Item - Parent Page Select"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:188
+msgid ""
+"Select a parent page for single item practice area page. It will be used for "
+"diplaying the top image, title and tagline. "
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:202
+msgid "Team - Number of items per page"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:205
+msgid "Change the number of team items per page"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:216
+msgid "Team - Single Item - Parent Page Select"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:217
+msgid ""
+"Select a parent page for single team member page. It will be used for "
+"diplaying the top image, title and tagline. "
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:231
+msgid "Testimonials - Number of items per page"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:234
+msgid "Change the number of testimonial items per page"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:244
+msgid "Case Results - Number of items per page"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:247
+msgid "Change the number of case results items per page"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:257
+msgid "Sidebar Display"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:260
+msgid ""
+"Choose how do you want to display the page sidebar for single page article, "
+"blog or page ( right / left / none )"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:264
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:269
+msgid "Style 3"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:274
+msgid "Style 1"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:287
+msgid "Scroll Top Button"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:290
+msgid "Check this box if you want the scroll to top button to be available."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:300
+msgid "Body Text Color"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:303
+msgid "Choose body text color."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:313
+msgid "Body Background Color"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:316
+msgid "Choose body background color."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:326
+msgid "Link Color"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:329
+msgid "Choose link color."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:339
+msgid "Link Hover Color"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:342
+msgid "Choose link hover color."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:352
+msgid "Heavy Color for titles / subtitles"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:355
+msgid "Choose heavy color for titles / subtitles."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:365
+msgid "Pages Title Color"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:368
+msgid "Choose pages title color."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:378
+msgid "Header Text Color"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:381
+msgid "Choose header text color."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:391
+msgid "Header Background Color"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:394
+msgid "Choose header background color."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:404
+msgid "Menu Item Normal State Color"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:407
+msgid "Choose menu item normal state color."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:417
+msgid "Menu Item Hover State Color"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:420
+msgid "Choose menu item hover state color."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:430
+msgid "Home Slider Caption Color"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:433
+msgid "Choose home slider caption color."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:443
+msgid "Modal Window Background Color"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:446
+msgid "Choose modal window background color."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:456
+msgid "Modal Window Title Color"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:459
+msgid "Choose modal window title color."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:469
+msgid "Modal Window Text Color"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:472
+msgid "Choose modal window text color."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:482
+msgid "Footer Background Color"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:485
+msgid "Choose footer background color."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:495
+msgid "Footer Text Color"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:498
+msgid "Choose footer text color."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:508
+msgid "Footer Widget Title Color"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:511
+msgid "Choose footer widget title color."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:521
+msgid "Footer Social Icons Normal Color"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:524
+msgid "Choose footer social icons normal color."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:535
+msgid "Show / Hide Home Slider"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:538
+msgid "Show / Hide home slider"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:548
+msgid "Slideshow Items"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:551
+msgid "Create home top slideshow. Add as much items as you want."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:555
+msgid "Upload"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:558
+msgid ""
+"Upload image file. Make sure your image is at least 1600x700px for a better "
+"view."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:567
+msgid "Caption title"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:570
+msgid "Add caption title"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:579
+msgid "Caption sub-title"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:582
+msgid "Add caption sub-title"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:590
+msgid "Slide URL"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:593
+msgid "Optional add URL to slider"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:611
+msgid "Slider Autoplay"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:614
+msgid "Check this box if you want the slider to play automatically."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:624
+msgid "Slides Speed"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:627
+msgid ""
+"Length between transitions in milliseconds. Make sure autoplay is checked."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:637
+msgid "Slides Transition"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:640
+msgid "Select your slides transition effect. Default is \"fade\"."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:661
+msgid "Testimonials Speed"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:664
+msgid "Length between transitions in milliseconds."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:674
+msgid "Testimonials Transition"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:677
+msgid "Select transition effect. Default is \"slide\"."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:698
+msgid "Company Awards Title Section"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:701
+msgid "Add company awards title section."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:711
+msgid "Company Awards Items"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:714
+msgid "Create company awards items. Add as much items as you want."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:718 
+#: ../lawyers/include/theme-options.php:815
+msgid "Item Icon"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:721 
+#: ../lawyers/include/theme-options.php:818
+msgid ""
+"Add item icon code. Please choose the icon from the Font Awesome website ( "
+"http://fortawesome.github.io/Font-Awesome/icons/ )."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:739
+msgid "Text Title Left"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:742
+msgid "Add text title left."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:752
+msgid "Text Description Left"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:755
+msgid "Add text description left."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:767
+msgid "Text Title Right"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:770
+msgid "Add text title right."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:780
+msgid "Text Description Right"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:783
+msgid "Add text description right."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:795
+msgid "Process Title Section"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:798
+msgid "Add company process title section."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:808
+msgid "Proces Section Items"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:811
+msgid "Create company process items. Add as much items as you want."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:827
+msgid "Item Description"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:830
+msgid "Add item description."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:847 
+#: ../lawyers/include/theme-options.php:850
+msgid "Office Images Title Section"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:860
+msgid "Office Images"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:863
+msgid "Create office image gallery. Add as much items as you want."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:867
+msgid "Image"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:870
+msgid "Upload office image. To look like my demo use image size of 540x300px."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:888
+msgid "Testimonials Title Section"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:891
+msgid "Add testimonials title section."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:901
+msgid "Show / Hide Testimonials"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:904
+msgid "Check this box if you want the testimonials show / hide on about page."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:914
+msgid "Your Email Address"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:917
+msgid "Add your email address where you want to receive messages."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:927
+msgid "Title Right"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:930
+msgid "Change the right title"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:940
+msgid "Text Right Side"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:943
+msgid "Change the right side text"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:953
+msgid "Address Right Side"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:956
+msgid "Change contact address"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:966
+msgid "Phone Right Side"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:969
+msgid "Change contact phone. It is also displayed in top right header."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:979
+msgid "Fax Right Side"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:982
+msgid "Change contact fax."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:992
+msgid "Email Right Side"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:995
+msgid "Change contact email. It is also displayed in top right header."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1005
+msgid "Enable Google Maps Right Side"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1008
+msgid "Make sure the Address Right Side above is filled with your address."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1018
+msgid "Choose Footer Display"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1021
+msgid "Choose if you want to display contact form footer or widgetized footer."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1024
+msgid "Contact Form Footer"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1028
+msgid "Normal 3 Widgets Footer"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1041
+msgid "Contact Form Title"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1044
+msgid "Change contact form title."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1054
+msgid "Contact Form Second Title"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1057
+msgid "Change contact form second title."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1067
+msgid "Copyright Text"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1070
+msgid "Change copyright text."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1080
+msgid "Facebook URL"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1083
+msgid "Add Facebook URL. If the field is empty the icon will not be displayed."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1093
+msgid "Twitter URL"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1096
+msgid "Add Twitter URL. If the field is empty the icon will not be displayed."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1106
+msgid "Google Plus URL"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1109
+msgid ""
+"Add Google Plus URL. If the field is empty the icon will not be displayed."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1119
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1122
+msgid "Add Linkedin URL. If the field is empty the icon will not be displayed."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1132
+msgid "YouTube URL"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1135
+msgid "Add YouTube URL. If the field is empty the icon will not be displayed."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1145
+msgid "Vimeo URL"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1148
+msgid "Add Vimeo URL. If the field is empty the icon will not be displayed."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1159
+msgid "Font Family"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1162
+msgid "Select a font family from the Google Web Fonts."
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1174
+msgid "Body Font Size"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1175
+msgid "Select text font page size"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1189
+msgid "H1 Font Size"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1190
+msgid "Select H1 heading font size"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1203
+msgid "H2 Font Size"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1204
+msgid "Select H2 heading font size"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1217
+msgid "H3 Font Size"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1218
+msgid "Select H3 heading font size"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1231
+msgid "H4 Font Size"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1232
+msgid "Select H4 heading font size"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1245
+msgid "H5 Font Size"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1246
+msgid "Select H5 heading font size"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1259
+msgid "H6 Font Size"
+msgstr ""
+
+#: ../lawyers/include/theme-options.php:1260
+msgid "Select H6 heading font size"
+msgstr ""
+
+#: ../lawyers/include/assets/section-footer1.php:42
+msgid "Tell us about your case"
+msgstr ""
+
+#: ../lawyers/include/assets/section-footer1.php:45
+msgid "Submit message"
+msgstr ""
+
+#: ../lawyers/include/assets/section-header2.php:34 
+#: ../lawyers/include/assets/section-header1.php:36
+msgid "Toggle navigation"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-recent-articles.php:35
+msgid "Homepage: Display Recent Articles"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-recent-articles.php:38
+msgid "MT - Home: Recent Articles"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-recent-articles.php:107 
+#: ../lawyers/include/widgets/widget-home-recent-articles.php:129
+msgid "Read More"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-recent-articles.php:167 
+#: ../lawyers/include/widgets/widget-home-practice-areas-4col.php:151 
+#: ../lawyers/include/widgets/widget-home-team-3col-profile-btn.php:143 
+#: ../lawyers/include/widgets/widget-home-team-4col-simple.php:181 
+#: ../lawyers/include/widgets/widget-home-gmaps.php:142 
+#: ../lawyers/include/widgets/widget-home-team-4col-profile-btn.php:143 
+#: ../lawyers/include/widgets/widget-home-practice-areas-3col.php:152 
+#: ../lawyers/include/widgets/widget-home-one-video.php:118 
+#: ../lawyers/include/widgets/widget-home-team-2col-profile-btn.php:145 
+#: ../lawyers/include/widgets/widget-home-case-studies-2col.php:196 
+#: ../lawyers/include/widgets/widget-home-testimonials.php:142
+msgid "Title:"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-recent-articles.php:172
+msgid "Number of articles:"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-one-team-member.php:35
+msgid "Homepage: Display One Team Member"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-one-team-member.php:38
+msgid "MT - Home:  One Team Member"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-one-team-member.php:204 
+#: ../lawyers/include/widgets/widget-home-3-feature-boxes.php:166
+msgid "Main Title:"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-one-team-member.php:209
+msgid "Member Name( one that you added in the Team Custom Posts ):"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-one-team-member.php:214 
+#: ../lawyers/include/widgets/widget-home-practice-areas-4col.php:161 
+#: ../lawyers/include/widgets/widget-home-team-4col-simple.php:191 
+#: ../lawyers/include/widgets/widget-home-practice-areas-3col.php:162 
+#: ../lawyers/include/widgets/widget-home-case-studies-2col.php:206
+msgid "Button Title:"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-one-team-member.php:219 
+#: ../lawyers/include/widgets/widget-home-practice-areas-4col.php:166 
+#: ../lawyers/include/widgets/widget-home-team-4col-simple.php:196 
+#: ../lawyers/include/widgets/widget-home-practice-areas-3col.php:167 
+#: ../lawyers/include/widgets/widget-home-case-studies-2col.php:211
+msgid "Button URL:"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-practice-areas-4col.php:35
+msgid "Homepage: Display Practice Areas Items 4 Col"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-practice-areas-4col.php:38
+msgid "MT - Home: Practice Areas 4 Col"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-practice-areas-4col.php:156 
+#: ../lawyers/include/widgets/widget-home-practice-areas-3col.php:157
+msgid "Number of practice items:"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-team-3col-profile-btn.php:35
+msgid "Homepage: Display team members in 3 columns each with profile button"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-team-3col-profile-btn.php:38
+msgid "MT - Home: Team 3 Col w/ Profile Btn"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-team-3col-profile-btn.php:148 
+#: ../lawyers/include/widgets/widget-home-team-4col-simple.php:186 
+#: ../lawyers/include/widgets/widget-home-team-4col-profile-btn.php:148 
+#: ../lawyers/include/widgets/widget-home-team-2col-profile-btn.php:150
+msgid "Number of team members:"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-team-4col-simple.php:35
+msgid "Homepage: Display team members in 4 columns"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-team-4col-simple.php:38
+msgid "MT - Home: Team 4 Columns"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-gmaps.php:35
+msgid "Homepage: Display Google Maps"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-gmaps.php:38
+msgid "MT - Home: Google Maps"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-gmaps.php:147
+msgid "Add your Address"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-team-4col-profile-btn.php:35
+msgid "Homepage: Display team members in 4 columns each with profile button"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-team-4col-profile-btn.php:38
+msgid "MT - Home: Team 4 Col w/ Profile Btn"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-practice-areas-3col.php:35
+msgid "Homepage: Display Practice Areas Items 3 Col"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-practice-areas-3col.php:38
+msgid "MT - Home: Practice Areas 3 Col"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-one-video.php:35
+msgid "Homepage: Display One Video - YouTube or Vimeo"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-one-video.php:38
+msgid "MT - Home:  One Video"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-one-video.php:123
+msgid "Add YouTube / Vimeo URL"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-intro.php:35
+msgid ""
+"Homepage Intro style title and text.Homepage: Display Intro style title and "
+"text"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-intro.php:38
+msgid "MT - Home: Intro"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-intro.php:123
+msgid "Intro Title"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-intro.php:128
+msgid "Column 1 Text"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-intro.php:133
+msgid "Column 2 Text"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-intro.php:138
+msgid "Column 3 Text"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-team-2col-profile-btn.php:35
+msgid "Homepage: Display team members in 2 columns each with profile button"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-team-2col-profile-btn.php:38
+msgid "MT - Home: Team 2 Col w/ Profile Btn"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-3-feature-boxes.php:35
+msgid "Homepage: Display 3 Feature Boxes"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-3-feature-boxes.php:38
+msgid "MT - Home: 3 Feature Boxes"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-3-feature-boxes.php:171
+msgid "Box 1 Title:"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-3-feature-boxes.php:176
+msgid ""
+"Box 1 Icon (for more info visit http://fortawesome.github.io/Font-"
+"Awesome/icons/ ):"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-3-feature-boxes.php:184
+msgid "Box 1 Text:"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-3-feature-boxes.php:189
+msgid "Box 2 Title:"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-3-feature-boxes.php:194
+msgid ""
+"Box 2 Icon (for more info visit http://fortawesome.github.io/Font-"
+"Awesome/icons/ ):"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-3-feature-boxes.php:199
+msgid "Box 2 Text:"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-3-feature-boxes.php:204
+msgid "Box 3 Title:"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-3-feature-boxes.php:209
+msgid ""
+"Box 3 Icon (for more info visit http://fortawesome.github.io/Font-"
+"Awesome/icons/ ):"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-3-feature-boxes.php:214
+msgid "Box 3 Text:"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-case-studies-2col.php:35
+msgid "Homepage: Display case results in 2 columns"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-case-studies-2col.php:38
+msgid "MT - Home: Case Results 2 Cols"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-case-studies-2col.php:201
+msgid "Number of case results:"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-testimonials.php:35
+msgid "Homepage: Display Testimonials"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-testimonials.php:38
+msgid "MT - Home: Testimonials"
+msgstr ""
+
+#: ../lawyers/include/widgets/widget-home-testimonials.php:147
+msgid "Number of testimonials:"
+msgstr ""
+
+#. Name of the theme
+msgid "Lawyers Child"
+msgstr ""
+
+#. Description of the theme
+msgid "Child theme for the Lawyers theme"
+msgstr ""
+
+#. Author of the theme
+msgid "MatchThemes"
+msgstr ""

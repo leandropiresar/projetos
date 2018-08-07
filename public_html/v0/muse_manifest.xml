@@ -1,0 +1,51 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="oliveirafreitas.adv.br" resolutions="1x,2x" timestamp="1475173087471">
+  <folder name="css">
+    <file name="site_global.css" crc="4249077137"/>
+    <file name="index.css" crc="3983662316" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="phone>index:index"/>
+    <file name="museutils.js" crc="3851988764" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="169177150" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4067903014" ref="phone>index:index"/>
+    <file name="form_check.php" crc="121412709" ref="phone>index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="phone>index"/>
+    <file name="form_process.php" crc="444429785" ref="phone>index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="phone>index:index"/>
+    <file name="require.js" crc="4108833657" ref="phone>index:index"/>
+    <file name="form-u106.php" crc="268884824" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
+    <file name="form-u506.php" crc="3759068298" ref="phone>index"/>
+  </folder>
+  <folder name="images">
+    <file name="imagem colada 1063x190295x53.png" crc="4003285393" seo="true" ref="phone>index"/>
+    <file name="imagem colada 1063x190295x53_2x.png" crc="4104339683" seo="true" ref="phone>index"/>
+    <file name="imagem colada 1063x190602x108.png" crc="4104339683" seo="true" ref="index"/>
+    <file name="u117-17.png" crc="4195462722" ref="index"/>
+    <file name="u117-17_2x.png" crc="494912094" ref="index"/>
+    <file name="u117-17-r.png" crc="104274742" ref="index"/>
+    <file name="u117-17-r_2x.png" crc="4260891642" ref="index"/>
+    <file name="u117-17-m.png" crc="3866936024" ref="index"/>
+    <file name="u117-17-m_2x.png" crc="433179612" ref="index"/>
+    <file name="u117-17-fs.png" crc="26851572" ref="index"/>
+    <file name="u117-17-fs_2x.png" crc="4173766558" ref="index"/>
+    <file name="oliveirafreitas_bg.jpg" crc="4272061281" ref="index"/>
+    <file name="favicon.ico" crc="134900149" ref="phone>index"/>
+    <file name="u509-17.png" crc="4195462722" ref="phone>index"/>
+    <file name="u509-17_2x.png" crc="494912094" ref="phone>index"/>
+    <file name="u509-17-r.png" crc="104274742" ref="phone>index"/>
+    <file name="u509-17-r_2x.png" crc="4260891642" ref="phone>index"/>
+    <file name="u509-17-m.png" crc="3866936024" ref="phone>index"/>
+    <file name="u509-17-m_2x.png" crc="433179612" ref="phone>index"/>
+    <file name="u509-17-fs.png" crc="26851572" ref="phone>index"/>
+    <file name="u509-17-fs_2x.png" crc="4173766558" ref="phone>index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="334118935" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="64331004" seo="true" mt="1475173061832" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4240374306" seo="true" mt="1475172833300" redirect="true"/>
+</manifest>

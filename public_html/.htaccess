@@ -1,0 +1,61 @@
+# BEGIN iThemes Security - Do not modify or remove this line
+# iThemes Security Config Details: 2
+	# Ban Hosts - Security > Settings > Banned Users
+	SetEnvIF REMOTE_ADDR "^66\.249\.64\.155$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^66\.249\.64\.155$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^66\.249\.64\.155$" DenyAccess
+
+	SetEnvIF REMOTE_ADDR "^185\.224\.132\.178$" DenyAccess
+	SetEnvIF X-FORWARDED-FOR "^185\.224\.132\.178$" DenyAccess
+	SetEnvIF X-CLUSTER-CLIENT-IP "^185\.224\.132\.178$" DenyAccess
+
+	<IfModule mod_authz_core.c>
+		<RequireAll>
+			Require all granted
+			Require not env DenyAccess
+			Require not ip 66.249.64.155
+			Require not ip 185.224.132.178
+		</RequireAll>
+	</IfModule>
+	<IfModule !mod_authz_core.c>
+		Order allow,deny
+		Allow from all
+		Deny from env=DenyAccess
+		Deny from 66.249.64.155
+		Deny from 185.224.132.178
+	</IfModule>
+# END iThemes Security - Do not modify or remove this line
+
+# BEGIN Redirect IP to domain name<ifModule mod_rewrite.c>    RewriteCond %{HTTP_HOST} ^191\.252\.51\.209    RewriteRule (.*) http://oliveirafreitas.adv.br/$1 [R=301,L]</IfModule># END Redirect IP to domain name
+# BEGIN W3TC Browser Cache
+<IfModule mod_deflate.c>
+        AddOutputFilterByType DEFLATE text/css text/x-component application/x-javascript application/javascript text/javascript text/x-js text/html text/richtext image/svg+xml text/plain text/xsd text/xsl text/xml image/bmp application/java application/msword application/vnd.ms-fontobject application/x-msdownload image/x-icon image/webp application/json application/vnd.ms-access application/vnd.ms-project application/x-font-otf application/vnd.ms-opentype application/vnd.oasis.opendocument.database application/vnd.oasis.opendocument.chart application/vnd.oasis.opendocument.formula application/vnd.oasis.opendocument.graphics application/vnd.oasis.opendocument.presentation application/vnd.oasis.opendocument.spreadsheet application/vnd.oasis.opendocument.text audio/ogg application/pdf application/vnd.ms-powerpoint image/svg+xml application/x-shockwave-flash image/tiff application/x-font-ttf application/vnd.ms-opentype audio/wav application/vnd.ms-write application/font-woff application/font-woff2 application/vnd.ms-excel
+    <IfModule mod_mime.c>
+        # DEFLATE by extension
+        AddOutputFilter DEFLATE js css htm html xml
+    </IfModule>
+</IfModule>
+<FilesMatch "\.(html|htm|rtf|rtx|svg|txt|xsd|xsl|xml|HTML|HTM|RTF|RTX|SVG|TXT|XSD|XSL|XML)$">
+    <IfModule mod_headers.c>
+        Header append Vary User-Agent env=!dont-vary
+    </IfModule>
+</FilesMatch>
+<FilesMatch "\.(bmp|class|doc|docx|eot|exe|ico|webp|json|mdb|mpp|otf|_otf|odb|odc|odf|odg|odp|ods|odt|ogg|pdf|pot|pps|ppt|pptx|svg|svgz|swf|tif|tiff|ttf|ttc|_ttf|wav|wri|woff|woff2|xla|xls|xlsx|xlt|xlw|BMP|CLASS|DOC|DOCX|EOT|EXE|ICO|WEBP|JSON|MDB|MPP|OTF|_OTF|ODB|ODC|ODF|ODG|ODP|ODS|ODT|OGG|PDF|POT|PPS|PPT|PPTX|SVG|SVGZ|SWF|TIF|TIFF|TTF|TTC|_TTF|WAV|WRI|WOFF|WOFF2|XLA|XLS|XLSX|XLT|XLW)$">
+    <IfModule mod_headers.c>
+         Header unset Last-Modified
+    </IfModule>
+</FilesMatch>
+# END W3TC Browser Cache
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+# BEGIN WP Performance Score Booster Settings
+# END WP Performance Score Booster Settings

