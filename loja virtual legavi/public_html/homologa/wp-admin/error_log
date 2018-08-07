@@ -1,0 +1,4 @@
+[16-Mar-2016 18:31:57 UTC] PHP Fatal error:  Out of memory (allocated 26214400) (tried to allocate 16384 bytes) in /home/legavi/public_html/homolog/wp-includes/pomo/mo.php on line 251
+[16-Mar-2016 19:17:41 UTC] PHP Fatal error:  Out of memory (allocated 36438016) (tried to allocate 12288 bytes) in /home/legavi/public_html/homolog/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-menus.php on line 264
+[23-Mar-2016 13:03:33 UTC] PHP Fatal error:  Out of memory (allocated 34603008) (tried to allocate 82 bytes) in /home/legavi/public_html/homolog/wp-includes/pomo/mo.php on line 251
+[28-Mar-2016 12:22:12 UTC] PHP Fatal error:  Out of memory (allocated 17563648) (tried to allocate 49152 bytes) in /home/legavi/public_html/homolog/wp-content/plugins/woocommerce/includes/widgets/class-wc-widget-product-categories.php on line 231

@@ -1,0 +1,32 @@
+[16-Mar-2016 18:31:57 UTC] PHP Fatal error:  Out of memory (allocated 26214400) (tried to allocate 16384 bytes) in /home/legavi/public_html/homolog/wp-includes/pomo/mo.php on line 251
+[16-Mar-2016 19:17:41 UTC] PHP Fatal error:  Out of memory (allocated 36438016) (tried to allocate 12288 bytes) in /home/legavi/public_html/homolog/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-menus.php on line 264
+[23-Mar-2016 13:03:33 UTC] PHP Fatal error:  Out of memory (allocated 34603008) (tried to allocate 82 bytes) in /home/legavi/public_html/homolog/wp-includes/pomo/mo.php on line 251
+[28-Mar-2016 12:22:12 UTC] PHP Fatal error:  Out of memory (allocated 17563648) (tried to allocate 49152 bytes) in /home/legavi/public_html/homolog/wp-content/plugins/woocommerce/includes/widgets/class-wc-widget-product-categories.php on line 231
+[05-Apr-2016 16:09:20 UTC] Erro de banco de dados do WordPress Duplicate key name 'location_type_code' para a consulta ALTER TABLE wp_woocommerce_tax_rate_locations ADD KEY location_type_code (location_type(40),location_code(90)) feita por activate_plugin, do_action('activate_woocommerce/woocommerce.php'), call_user_func_array, WC_Install::install, WC_Install::create_tables, dbDelta
+[02-May-2016 11:59:36 UTC] PHP Fatal error:  Out of memory (allocated 9437184) (tried to allocate 49152 bytes) in /home/legavi/public_html/wp-includes/kses.php on line 322
+[02-May-2016 12:01:12 UTC] PHP Fatal error:  Out of memory (allocated 19136512) (tried to allocate 49152 bytes) in /home/legavi/public_html/wp-content/plugins/woocommerce/includes/class-wc-ajax.php on line 1578
+[02-May-2016 14:07:15 UTC] PHP Warning:  curl_multi_exec() has been disabled for security reasons in /home/legavi/public_html/wp-content/plugins/wp-meta-seo/inc/class.metaseo-dashboard.php on line 177
+[02-May-2016 14:09:28 UTC] PHP Warning:  curl_multi_exec() has been disabled for security reasons in /home/legavi/public_html/wp-content/plugins/wp-meta-seo/inc/class.metaseo-dashboard.php on line 177
+[02-May-2016 14:27:15 UTC] PHP Warning:  curl_multi_exec() has been disabled for security reasons in /home/legavi/public_html/wp-content/plugins/wp-meta-seo/inc/class.metaseo-dashboard.php on line 177
+[04-May-2016 11:11:36 UTC] PHP Fatal error:  Out of memory (allocated 9961472) (tried to allocate 12288 bytes) in /home/legavi/public_html/wp-includes/kses.php on line 843
+[05-May-2016 19:18:52 UTC] PHP Fatal error:  Out of memory (allocated 11010048) (tried to allocate 3072 bytes) in /home/legavi/public_html/wp-includes/taxonomy.php on line 2082
+[05-May-2016 19:18:52 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 3200 bytes) in /home/legavi/public_html/wp-includes/comment.php on line 1964
+[05-May-2016 19:18:52 UTC] PHP Fatal error:  Out of memory (allocated 7864320) (tried to allocate 3072 bytes) in /home/legavi/public_html/wp-includes/revision.php on line 461
+[05-May-2016 19:18:52 UTC] PHP Fatal error:  Out of memory (allocated 12582912) (tried to allocate 12288 bytes) in /home/legavi/public_html/wp-includes/class-wp-http-streams.php on line 59
+[05-May-2016 19:18:52 UTC] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 12288 bytes) in /home/legavi/public_html/wp-includes/comment-template.php on line 1948
+[05-May-2016 19:18:52 UTC] PHP Fatal error:  Out of memory (allocated 7340032) (tried to allocate 49152 bytes) in /home/legavi/public_html/wp-includes/post.php on line 3647
+[05-May-2016 19:18:52 UTC] PHP Fatal error:  Out of memory (allocated 7340032) (tried to allocate 12288 bytes) in /home/legavi/public_html/wp-includes/post.php on line 4109
+[05-May-2016 19:19:04 UTC] PHP Fatal error:  Out of memory (allocated 22806528) (tried to allocate 11520 bytes) in /home/legavi/public_html/wp-content/plugins/wordpress-seo/vendor/composer/autoload_classmap.php on line 143
+[05-May-2016 19:19:04 UTC] PHP Fatal error:  Out of memory (allocated 22806528) (tried to allocate 11520 bytes) in /home/legavi/public_html/wp-content/plugins/wordpress-seo/vendor/composer/autoload_classmap.php on line 143
+[05-May-2016 19:19:04 UTC] PHP Fatal error:  Out of memory (allocated 24641536) (tried to allocate 13440 bytes) in /home/legavi/public_html/wp-content/plugins/wordpress-seo/vendor/composer/autoload_classmap.php on line 167
+[05-May-2016 19:19:04 UTC] PHP Fatal error:  Out of memory (allocated 14417920) (tried to allocate 12288 bytes) in /home/legavi/public_html/wp-includes/widgets.php on line 801
+[05-May-2016 19:19:04 UTC] PHP Fatal error:  Out of memory (allocated 12320768) (tried to allocate 49152 bytes) in /home/legavi/public_html/wp-includes/media.php on line 2008
+[05-May-2016 19:19:04 UTC] PHP Fatal error:  Out of memory (allocated 12845056) (tried to allocate 12288 bytes) in /home/legavi/public_html/wp-includes/class-wp-http-cookie.php on line 100
+[05-May-2016 19:19:04 UTC] PHP Fatal error:  Out of memory (allocated 22806528) (tried to allocate 11520 bytes) in /home/legavi/public_html/wp-content/plugins/wordpress-seo/vendor/composer/autoload_classmap.php on line 143
+[10-May-2016 14:09:49 UTC] PHP Fatal error:  Out of memory (allocated 33554432) (tried to allocate 72 bytes) in /home/legavi/public_html/wp-includes/pomo/mo.php on line 270
+[13-May-2016 17:27:42 UTC] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 49152 bytes) in /home/legavi/public_html/wp-admin/includes/plugin.php on line 877
+[17-May-2016 18:36:27 UTC] PHP Fatal error:  Out of memory (allocated 7864320) (tried to allocate 12288 bytes) in /home/legavi/public_html/wp-includes/general-template.php on line 2807
+[17-May-2016 18:36:27 UTC] PHP Fatal error:  Out of memory (allocated 26476544) (tried to allocate 32 bytes) in /home/legavi/public_html/wp-includes/pomo/streams.php on line 110
+[17-May-2016 18:36:27 UTC] PHP Fatal error:  Out of memory (allocated 24641536) (tried to allocate 49152 bytes) in /home/legavi/public_html/wp-content/plugins/megamenu/classes/menu-item-manager.class.php on line 389
+[17-May-2016 18:36:27 UTC] PHP Fatal error:  Out of memory (allocated 27262976) (tried to allocate 12288 bytes) in /home/legavi/public_html/wp-content/plugins/yith-woocommerce-wishlist/includes/class.yith-wcwl.php on line 1198
+[17-May-2016 18:36:27 UTC] PHP Fatal error:  Out of memory (allocated 29622272) (tried to allocate 12288 bytes) in /home/legavi/public_html/wp-content/plugins/wordpress-seo/inc/sitemaps/class-author-sitemap-provider.php on line 167

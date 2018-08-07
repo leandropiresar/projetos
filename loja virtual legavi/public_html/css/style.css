@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	margin:0 auto;
+}
+
+#container
+{
+	margin:0 auto;
+	width:960px;
+	height:936px;
+	margin-top:25px;
+}
+
+#facebook
+{
+	width:960px;
+	height:258px;
+	margin-top:25px;
+	background-color:#FFF;
+}
